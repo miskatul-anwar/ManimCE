@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/miskat/CS/Python-Programming/Manim/Pie/media/videos/temp/2160p60/partial_movie_files/PieChartExample/1457378895_1275953163_1716730077.mp4'
+file 'file:/home/miskat/CS/Python-Programming/Manim/Pie/media/videos/temp/2160p60/partial_movie_files/PieChartExample/1993220219_2846502548_1716730077.mp4'
+file 'file:/home/miskat/CS/Python-Programming/Manim/Pie/media/videos/temp/2160p60/partial_movie_files/PieChartExample/1993220219_1141282389_2994605881.mp4'

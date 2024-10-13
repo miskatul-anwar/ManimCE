@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/miskat/CS/Python-Programming/Manim/Anim/media/videos/Graphing/1080p60/partial_movie_files/Graph/3529212410_2268332985_631829896.mp4'
+file 'file:/home/miskat/CS/Python-Programming/Manim/Anim/media/videos/Graphing/1080p60/partial_movie_files/Graph/3529212410_1590260170_4131132508.mp4'
+file 'file:/home/miskat/CS/Python-Programming/Manim/Anim/media/videos/Graphing/1080p60/partial_movie_files/Graph/3040924799_1916384158_2346007834.mp4'
+file 'file:/home/miskat/CS/Python-Programming/Manim/Anim/media/videos/Graphing/1080p60/partial_movie_files/Graph/3040924799_1872960560_2084324.mp4'
+file 'file:/home/miskat/CS/Python-Programming/Manim/Anim/media/videos/Graphing/1080p60/partial_movie_files/Graph/3040924799_1560104725_2102082034.mp4'
+file 'file:/home/miskat/CS/Python-Programming/Manim/Anim/media/videos/Graphing/1080p60/partial_movie_files/Graph/3040924799_255102487_3925013926.mp4'

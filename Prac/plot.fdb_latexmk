@@ -1,0 +1,11 @@
+# Fdb version 4
+["pdflatex"] 1726455228.67504 "plot.py" "plot.pdf" "plot" 1726455228.99841 2
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1726408275 7112994 15ba7884b8ec5c94e3bf5061919390a2 ""
+  "plot.aux" 1726455228.67288 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "plot.py" 1726455227.59589 145 6f6df39d35438a5ac94de25de414289b ""
+  (generated)
+  "plot.aux"
+  "plot.log"
+  "plot.pdf"
+  (rewritten before read)

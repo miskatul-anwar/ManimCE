@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/miskat/CS/Python-Programming/Manim/Histogram/media/videos/basic/480p15/partial_movie_files/HistogramExample/1185818338_897094757_223132457.mp4'
+file 'file:/home/miskat/CS/Python-Programming/Manim/Histogram/media/videos/basic/480p15/partial_movie_files/HistogramExample/624642324_1141282389_3638882293.mp4'
